@@ -8,6 +8,8 @@ Built as Part 2 of my home SIEM lab project to demonstrate the full attack chain
 
 📖 Read the full writeup on Medium → [How I Built a Home SIEM Lab with Splunk](https://medium.com/@mohankrishnaotikunta/how-i-built-a-home-siem-lab-with-splunk-and-everything-that-went-wrong-fd0ae7e98b52)
 
+📖 Read the full writeup on Medium → [What Happens When You Click a Fake Installer? I Built One to Find Out](https://medium.com/@mohankrishnaotikunta/what-happens-when-you-click-a-fake-installer-i-built-one-to-find-out-0d8fc7cb5a98)
+
 🔗 Part 1 — SIEM Detection Lab → [splunk-home-siem-lab](https://github.com/mohankrishnaotikunta/splunk-home-siem-lab)
 
 ---
